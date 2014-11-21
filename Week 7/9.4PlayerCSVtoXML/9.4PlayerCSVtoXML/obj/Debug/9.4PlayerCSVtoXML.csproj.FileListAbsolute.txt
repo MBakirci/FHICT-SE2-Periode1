@@ -1,0 +1,9 @@
+c:\users\gebruiker\documents\visual studio 2013\Projects\9.4PlayerCSVtoXML\9.4PlayerCSVtoXML\bin\Debug\9.4PlayerCSVtoXML.exe.config
+c:\users\gebruiker\documents\visual studio 2013\Projects\9.4PlayerCSVtoXML\9.4PlayerCSVtoXML\bin\Debug\9.4PlayerCSVtoXML.exe
+c:\users\gebruiker\documents\visual studio 2013\Projects\9.4PlayerCSVtoXML\9.4PlayerCSVtoXML\bin\Debug\9.4PlayerCSVtoXML.pdb
+c:\users\gebruiker\documents\visual studio 2013\Projects\9.4PlayerCSVtoXML\9.4PlayerCSVtoXML\obj\Debug\9.4PlayerCSVtoXML.csprojResolveAssemblyReference.cache
+c:\users\gebruiker\documents\visual studio 2013\Projects\9.4PlayerCSVtoXML\9.4PlayerCSVtoXML\obj\Debug\_9._4PlayerCSVtoXML.Form1.resources
+c:\users\gebruiker\documents\visual studio 2013\Projects\9.4PlayerCSVtoXML\9.4PlayerCSVtoXML\obj\Debug\_9._4PlayerCSVtoXML.Properties.Resources.resources
+c:\users\gebruiker\documents\visual studio 2013\Projects\9.4PlayerCSVtoXML\9.4PlayerCSVtoXML\obj\Debug\9.4PlayerCSVtoXML.csproj.GenerateResource.Cache
+c:\users\gebruiker\documents\visual studio 2013\Projects\9.4PlayerCSVtoXML\9.4PlayerCSVtoXML\obj\Debug\9.4PlayerCSVtoXML.exe
+c:\users\gebruiker\documents\visual studio 2013\Projects\9.4PlayerCSVtoXML\9.4PlayerCSVtoXML\obj\Debug\9.4PlayerCSVtoXML.pdb

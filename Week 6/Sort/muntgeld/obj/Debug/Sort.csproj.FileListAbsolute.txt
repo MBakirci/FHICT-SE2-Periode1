@@ -1,0 +1,17 @@
+c:\users\gebruiker\documents\visual studio 2013\Projects\muntgeld\muntgeld\bin\Debug\muntgeld.exe.config
+c:\users\gebruiker\documents\visual studio 2013\Projects\muntgeld\muntgeld\bin\Debug\muntgeld.exe
+c:\users\gebruiker\documents\visual studio 2013\Projects\muntgeld\muntgeld\bin\Debug\muntgeld.pdb
+c:\users\gebruiker\documents\visual studio 2013\Projects\muntgeld\muntgeld\obj\Debug\Sort.Form1.resources
+c:\users\gebruiker\documents\visual studio 2013\Projects\muntgeld\muntgeld\obj\Debug\Sort.Properties.Resources.resources
+c:\users\gebruiker\documents\visual studio 2013\Projects\muntgeld\muntgeld\obj\Debug\Sort.csproj.GenerateResource.Cache
+c:\users\gebruiker\documents\visual studio 2013\Projects\muntgeld\muntgeld\obj\Debug\muntgeld.exe
+c:\users\gebruiker\documents\visual studio 2013\Projects\muntgeld\muntgeld\obj\Debug\muntgeld.pdb
+C:\Users\Gebruiker\Documents\Visual Studio 2013\Projects\Sort\muntgeld\bin\Debug\Sort.exe.config
+C:\Users\Gebruiker\Documents\Visual Studio 2013\Projects\Sort\muntgeld\bin\Debug\Sort.exe
+C:\Users\Gebruiker\Documents\Visual Studio 2013\Projects\Sort\muntgeld\bin\Debug\Sort.pdb
+C:\Users\Gebruiker\Documents\Visual Studio 2013\Projects\Sort\muntgeld\obj\Debug\Sort.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\Documents\Visual Studio 2013\Projects\Sort\muntgeld\obj\Debug\Sort.Form1.resources
+C:\Users\Gebruiker\Documents\Visual Studio 2013\Projects\Sort\muntgeld\obj\Debug\Sort.Properties.Resources.resources
+C:\Users\Gebruiker\Documents\Visual Studio 2013\Projects\Sort\muntgeld\obj\Debug\Sort.csproj.GenerateResource.Cache
+C:\Users\Gebruiker\Documents\Visual Studio 2013\Projects\Sort\muntgeld\obj\Debug\Sort.exe
+C:\Users\Gebruiker\Documents\Visual Studio 2013\Projects\Sort\muntgeld\obj\Debug\Sort.pdb

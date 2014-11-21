@@ -1,0 +1,9 @@
+c:\users\gebruiker\documents\visual studio 2013\Projects\muntgeld\muntgeld\bin\Debug\muntgeld.exe.config
+c:\users\gebruiker\documents\visual studio 2013\Projects\muntgeld\muntgeld\bin\Debug\muntgeld.exe
+c:\users\gebruiker\documents\visual studio 2013\Projects\muntgeld\muntgeld\bin\Debug\muntgeld.pdb
+c:\users\gebruiker\documents\visual studio 2013\Projects\muntgeld\muntgeld\obj\Debug\muntgeld.csprojResolveAssemblyReference.cache
+c:\users\gebruiker\documents\visual studio 2013\Projects\muntgeld\muntgeld\obj\Debug\muntgeld.Form1.resources
+c:\users\gebruiker\documents\visual studio 2013\Projects\muntgeld\muntgeld\obj\Debug\muntgeld.Properties.Resources.resources
+c:\users\gebruiker\documents\visual studio 2013\Projects\muntgeld\muntgeld\obj\Debug\muntgeld.csproj.GenerateResource.Cache
+c:\users\gebruiker\documents\visual studio 2013\Projects\muntgeld\muntgeld\obj\Debug\muntgeld.exe
+c:\users\gebruiker\documents\visual studio 2013\Projects\muntgeld\muntgeld\obj\Debug\muntgeld.pdb

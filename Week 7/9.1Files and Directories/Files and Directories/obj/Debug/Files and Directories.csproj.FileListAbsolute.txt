@@ -1,0 +1,18 @@
+c:\users\gebruiker\documents\visual studio 2013\Projects\Files and Directories\Files and Directories\bin\Debug\Files and Directories.exe.config
+c:\users\gebruiker\documents\visual studio 2013\Projects\Files and Directories\Files and Directories\bin\Debug\Files and Directories.exe
+c:\users\gebruiker\documents\visual studio 2013\Projects\Files and Directories\Files and Directories\bin\Debug\Files and Directories.pdb
+c:\users\gebruiker\documents\visual studio 2013\Projects\Files and Directories\Files and Directories\obj\Debug\Files and Directories.csprojResolveAssemblyReference.cache
+c:\users\gebruiker\documents\visual studio 2013\Projects\Files and Directories\Files and Directories\obj\Debug\Files_and_Directories.Form1.resources
+c:\users\gebruiker\documents\visual studio 2013\Projects\Files and Directories\Files and Directories\obj\Debug\Files_and_Directories.Properties.Resources.resources
+c:\users\gebruiker\documents\visual studio 2013\Projects\Files and Directories\Files and Directories\obj\Debug\Files and Directories.csproj.GenerateResource.Cache
+c:\users\gebruiker\documents\visual studio 2013\Projects\Files and Directories\Files and Directories\obj\Debug\Files and Directories.exe
+c:\users\gebruiker\documents\visual studio 2013\Projects\Files and Directories\Files and Directories\obj\Debug\Files and Directories.pdb
+C:\Users\Gebruiker\Google Drive\FHICT\ICT S2\SE2\Projecten\Week 7\9.1Files and Directories\Files and Directories\bin\Debug\Files and Directories.exe.config
+C:\Users\Gebruiker\Google Drive\FHICT\ICT S2\SE2\Projecten\Week 7\9.1Files and Directories\Files and Directories\obj\Debug\Files and Directories.exe
+C:\Users\Gebruiker\Google Drive\FHICT\ICT S2\SE2\Projecten\Week 7\9.1Files and Directories\Files and Directories\obj\Debug\Files and Directories.pdb
+C:\Users\Gebruiker\Google Drive\FHICT\ICT S2\SE2\Projecten\Week 7\9.1Files and Directories\Files and Directories\bin\Debug\Files and Directories.exe
+C:\Users\Gebruiker\Google Drive\FHICT\ICT S2\SE2\Projecten\Week 7\9.1Files and Directories\Files and Directories\bin\Debug\Files and Directories.pdb
+C:\Users\Gebruiker\Google Drive\FHICT\ICT S2\SE2\Projecten\Week 7\9.1Files and Directories\Files and Directories\obj\Debug\Files and Directories.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\Google Drive\FHICT\ICT S2\SE2\Projecten\Week 7\9.1Files and Directories\Files and Directories\obj\Debug\Files_and_Directories.Form1.resources
+C:\Users\Gebruiker\Google Drive\FHICT\ICT S2\SE2\Projecten\Week 7\9.1Files and Directories\Files and Directories\obj\Debug\Files_and_Directories.Properties.Resources.resources
+C:\Users\Gebruiker\Google Drive\FHICT\ICT S2\SE2\Projecten\Week 7\9.1Files and Directories\Files and Directories\obj\Debug\Files and Directories.csproj.GenerateResource.Cache

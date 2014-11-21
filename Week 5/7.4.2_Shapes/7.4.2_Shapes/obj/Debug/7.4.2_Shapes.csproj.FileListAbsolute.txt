@@ -1,0 +1,9 @@
+c:\users\gebruiker\documents\visual studio 2013\Projects\7.4.2_Shapes\7.4.2_Shapes\bin\Debug\7.4.2_Shapes.exe.config
+C:\Users\Gebruiker\documents\visual studio 2013\Projects\7.4.2_Shapes\7.4.2_Shapes\obj\Debug\7.4.2_Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\documents\visual studio 2013\Projects\7.4.2_Shapes\7.4.2_Shapes\obj\Debug\_7._4._2_Shapes.Form1.resources
+C:\Users\Gebruiker\documents\visual studio 2013\Projects\7.4.2_Shapes\7.4.2_Shapes\obj\Debug\_7._4._2_Shapes.Properties.Resources.resources
+C:\Users\Gebruiker\documents\visual studio 2013\Projects\7.4.2_Shapes\7.4.2_Shapes\obj\Debug\7.4.2_Shapes.csproj.GenerateResource.Cache
+C:\Users\Gebruiker\documents\visual studio 2013\Projects\7.4.2_Shapes\7.4.2_Shapes\bin\Debug\7.4.2_Shapes.exe
+C:\Users\Gebruiker\documents\visual studio 2013\Projects\7.4.2_Shapes\7.4.2_Shapes\bin\Debug\7.4.2_Shapes.pdb
+C:\Users\Gebruiker\documents\visual studio 2013\Projects\7.4.2_Shapes\7.4.2_Shapes\obj\Debug\7.4.2_Shapes.exe
+C:\Users\Gebruiker\documents\visual studio 2013\Projects\7.4.2_Shapes\7.4.2_Shapes\obj\Debug\7.4.2_Shapes.pdb
